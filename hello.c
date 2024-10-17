@@ -1,6 +1,8 @@
 // File hello.c
 #include <stdio.h>
 
+//Random comment
+
 int main()
 {
   int i,j;
